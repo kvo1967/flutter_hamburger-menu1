@@ -1,16 +1,10 @@
-# hamburger_menu_example
+# hamburgergit comment_menu_example
 
-A new Flutter project.
+April 2023.
+First attempt for a hamburger menu
 
-## Getting Started
+Created the menu but did not like the code too much;
+I am new to flutter, but that looks like use of global variables.
+Als navigation to a new page was not covered by the example given.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Not gonna use it. But I got more acquanted with flutter....
